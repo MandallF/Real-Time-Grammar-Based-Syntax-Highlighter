@@ -36,8 +36,8 @@ This project deepened my understanding of syntax and lexical analysis and gave m
 
 ## Source Code
 
-Available on GitHub: 
+Available on GitHub: https://github.com/MandallF/Real-Time-Grammar-Based-Syntax-Highlighter
 
 ## Demo Video
 
-Available on YouTube: 
+Available on YouTube: https://youtu.be/v_c8ZOrIh4g
