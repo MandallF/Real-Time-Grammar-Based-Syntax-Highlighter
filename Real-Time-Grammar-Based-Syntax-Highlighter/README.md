@@ -46,3 +46,5 @@ factor    → NUMBER | IDENTIFIER | ( expr )
 📸 Demo
 A demonstration video is available at:
 
+📜You can access my article from: https://medium.com/@kubilayinanc4/building-a-real-time-grammar-based-syntax-highlighter-in-python-60bea532f134
+
