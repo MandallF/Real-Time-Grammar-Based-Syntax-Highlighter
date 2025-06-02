@@ -1,0 +1,3 @@
+tk
+
+#(Tkinter zaten Python’da gelir ama yine de eklemek iyidir.)
